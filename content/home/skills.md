@@ -40,8 +40,8 @@ weight = 7
   description = "80%"
   
   [[feature]]
-  icon = ""
-  icon_pack = ""
+  icon = "java"
+  icon_pack = "fab"
   name = "Core Java"
   description = "70%"
   

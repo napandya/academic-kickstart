@@ -33,7 +33,7 @@ interests = [
 
 [[education.courses]]
   course = "BEng in Information Technology"
-  institution = "K.J Somaiya Institute of Engineering anand IT, University of Mumbai"
+  institution = "K.J Somaiya Institute of Engineering and IT, University of Mumbai"
   year = 2009
 
 [[education.courses]]

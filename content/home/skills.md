@@ -22,21 +22,59 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = ""
+  icon_pack = ""
+  name = "SQL"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon_pack = ""
+  name = "PLSQL"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = ""
+  icon_pack = ""
+  name = "Python"
+  description = "80%"
+  
+  [[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Core Java"
+  description = "70%"
+  
+    [[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Oracle Cloud"
+  description = "100%"
+  
+      [[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Oracle E-Business Suite"
+  description = "100%"
+  
+        [[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Service Oriented Architecture"
+  description = "100%"
+  
+          [[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "RICEF Components"
+  description = "100%"
+  
+            [[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Oracle Tech Stack"
+  description = "80%"
+
+
 
 +++

@@ -1,45 +1,45 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Nandan Pandya"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Graduate Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University Of Texas At Arlington", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My interests include the Database Systems, Neural Networks and the marriage of Database Systems with Software Engineering"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "pandyanandan@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
+  "Database Systems",
+  "Neural Networks",
   "Information Retrieval"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS in Computer Science"
+  institution = "University of Texas At Arlington"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BEng in Information Technology"
+  institution = "K.J Somaiya Institute of Engineering anand IT, University of Mumbai"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Diploma in Computer Engineering"
+  institution = "Shri Bhaghubhai Mafatlal Polytechnic"
+  year = 2005
 
 # Social/Academic Networking
 #
@@ -67,17 +67,17 @@ interests = [
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/nppreaches"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = ""
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/napandya"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,6 +88,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nandan Pandya is a Graduate Student at University of Texas At Arlington pursuing his Masters in Conmputer Science. He has 6.8 yrs of working experience with organizations such as Deloitte and Capgemini. By his work experience he has developed a deep understanding of on premise ERP, Cloud ERP and Database systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+His research areas of interests are Geospatial Database, Neural Networks and NO SQL data base systems.

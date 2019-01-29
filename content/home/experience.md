@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Deloitte"
   company_url = "https://www2.deloitte.com/us/en.html"
   location = "Mumbai"
-  date_start = "2015-05-06"
-  date_end = "2017-11-06"
+  date_start = "May 2015"
+  date_end = "November 2017"
   description = """
   Responsibilities include:
   
@@ -38,8 +38,8 @@ date_format = "January 2006"
   company = "Capgemini"
   company_url = "https://www.capgemini.com/"
   location = "Mumbai"
-  date_start = "2011-04-20"
-  date_end = "2015-04-10"
+  date_start = "April 2011"
+  date_end = "May 2015"
   description = """Oracle Applications Technical Consultant"""
 
 +++

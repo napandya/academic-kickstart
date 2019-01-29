@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "https://www2.deloitte.com/us/en.html"
   location = "Mumbai"
   date_start = "2015-05-06"
-  date_end = ""
+  date_end = "2017-11-06"
   description = """
   Responsibilities include:
   
